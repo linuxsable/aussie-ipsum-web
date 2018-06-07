@@ -17,6 +17,14 @@ export const aussieIpsum = [
     link: 'https://www.youtube.com/watch?v=vmL72sgVdAQ',
   },
   {
+    word: 'Heaps',
+    meaning: 'A lot of, mate.',
+  },
+  {
+    word: 'Mate',
+    meaning: 'Dude.',
+  },
+  {
     word: 'Petrol',
     meaning: 'Gasoline.',
   },
@@ -27,7 +35,7 @@ export const aussieIpsum = [
   },
   {
     word: 'Spicy',
-    meaning: 'Interesting and ...',
+    meaning: 'Interesting, controversial and exciting.',
   },
   {
     word: 'Stickybeak',

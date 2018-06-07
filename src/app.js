@@ -6,7 +6,7 @@ import { aussieIpsum } from './lib/aussie-ipsum';
 import { Word } from './components/word';
 import { WordCloud } from './components/word-cloud';
 
-const Main = styled.main.attrs({ className: 'w-100 system-sans-serif bg-white pa3 pa5-ns fw2' })``;
+const Main = styled.main.attrs({ className: 'w-100 mw8 system-sans-serif bg-white pa3 pa5-ns fw2' })``;
 
 const HeadlineHeader = styled.h1.attrs({ className: 'f1 lh-title' })``;
 const HeadlineTaglineHeader = styled.p.attrs({ className: 'lh-copy' })``;
@@ -15,7 +15,7 @@ const WordsSection = styled.div.attrs({ className: 'pv5' })``;
 
 export class App extends Component {
   render() {
-    const alphabetizedWords = aussieIpsum.sort();
+    const alphabetizedWords = aussieIpsum.sort(((a, b) => a.word.localeCompare(b.word)));
 
     return (
       <Main>
