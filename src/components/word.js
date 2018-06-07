@@ -12,7 +12,7 @@ export const Word = ({ word, meaning, link }) => {
       <Header>{word}</Header>
       <Meaning>{meaning}</Meaning>
       {link && link.length && (
-        <Link href={link} target="_blank">Related</Link>
+        <Link href={link} target="_blank">related</Link>
       )}
     </Wrapper>
   );

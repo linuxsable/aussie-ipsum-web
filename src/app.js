@@ -6,7 +6,9 @@ import { aussieIpsum } from './lib/aussie-ipsum';
 import { Word } from './components/word';
 import { WordCloud } from './components/word-cloud';
 
-const Main = styled.main.attrs({ className: 'w-100 mw8 system-sans-serif bg-white pa3 pa5-ns fw2' })``;
+const Main = styled.main.attrs({ className: 'w-100 mw7 system-sans-serif bg-white pa3 pa5-ns fw2' })`
+  -webkit-font-smoothing: antialiased;
+`;
 
 const HeadlineHeader = styled.h1.attrs({ className: 'f1 lh-title' })``;
 const HeadlineTaglineHeader = styled.p.attrs({ className: 'lh-copy' })``;
