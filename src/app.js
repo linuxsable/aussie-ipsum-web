@@ -6,7 +6,7 @@ import { aussieIpsum } from './lib/aussie-ipsum';
 import { Word } from './components/word';
 import { WordCloud } from './components/word-cloud';
 
-const Main = styled.main.attrs({ className: 'w-100 mw7 system-sans-serif bg-white pa3 pa5-ns fw2' })`
+const Main = styled.main.attrs({ className: 'w-100 mw7 system-sans-serif bg-white pa3 pa5-ns fw2 center' })`
   -webkit-font-smoothing: antialiased;
 `;
 

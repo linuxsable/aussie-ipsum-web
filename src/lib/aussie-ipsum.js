@@ -8,12 +8,16 @@ export const aussieIpsum = [
     meaning: 'Afternoon.',
   },
   {
+    word: 'Bloke',
+    meaning: 'A dude.',
+  },
+  {
     word: 'Bogan',
     meaning: 'A person who takes little pride in his appearance, spends his days slacking and drinking beer.',
   },
   {
     word: 'Ciggy butt brain',
-    meaning: 'Self explanatory.',
+    meaning: 'When you got ciggy butts all up in your brain.',
     link: 'https://www.youtube.com/watch?v=vmL72sgVdAQ',
   },
   {
@@ -26,7 +30,7 @@ export const aussieIpsum = [
   },
   {
     word: 'Mate',
-    meaning: 'Dude.',
+    meaning: 'A dude.',
   },
   {
     word: 'Petrol',
