@@ -50,6 +50,10 @@ export const aussieIpsum = [
     meaning: 'An inquisitive and prying person.',
   },
   {
+    word: 'Tomato sauce',
+    meaning: 'Ketchup.',
+  },
+  {
     word: 'Vegemite',
     meaning: 'Spread thin to avoid regret.',
   }
