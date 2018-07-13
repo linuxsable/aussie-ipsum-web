@@ -293,17 +293,21 @@ export const aussieIpsum = [
     meaning: '',
   },
   {
-    word: 'shit all',
-    meaning: 'No chance.',
-  },
-  {
     word: 'smoko',
     meaning: 'A smoke break.',
     link: 'https://www.youtube.com/watch?v=j58V2vC9EPc',
   },
   {
+    word: 'splice',
+    meaning: 'An ice cream bar.',
+  },
+  {
     word: 'spicy',
     meaning: 'Interesting, controversial and exciting.',
+  },
+  {
+    word: 'spider',
+    meaning: 'Root beer float.',
   },
   {
     word: 'sticky beak',
@@ -344,6 +348,10 @@ export const aussieIpsum = [
   {
     word: 'true blue',
     meaning: 'Really patriotic.',
+  },
+  {
+    word: 'ute',
+    meaning: 'A truck.',
   },
   {
     word: 'vegemite',
