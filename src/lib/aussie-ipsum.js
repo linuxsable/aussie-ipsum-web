@@ -44,7 +44,7 @@ export const aussieIpsum = [
     meaning: 'Bottle-.',
   },
   {
-    word: 'breky',
+    word: 'brekky',
     meaning: 'Breakfast.',
   },
   {
@@ -233,11 +233,11 @@ export const aussieIpsum = [
     meaning: 'Friend discount.',
   },
   {
-    word: 'mueslie',
+    word: 'muesli',
     meaning: 'Granola.',
   },
   {
-    word: 'onya',
+    word: '\'onya',
     meaning: 'Good on you.',
   },
   {
@@ -281,7 +281,7 @@ export const aussieIpsum = [
     meaning: 'This afternoon.',
   },
   {
-    word: 'saltana',
+    word: 'sultana',
     meaning: 'Raisin.',
   },
   {
@@ -359,7 +359,7 @@ export const aussieIpsum = [
   },
   {
     word: 'wagga wagga',
-    meaning: 'Place in central.',
+    meaning: 'Place in New South Wales.',
   },
   {
     word: 'wanker',
@@ -371,11 +371,15 @@ export const aussieIpsum = [
   },
   {
     word: 'whoop whoop',
-    meaning: 'Too far.',
+    meaning: 'A rural area',
   },
   {
-    word: 'yah nah / nah yah',
-    meaning: 'Yah nah / nah ya.',
+    word: 'yeah nah',
+    meaning: 'no',
+  },
+  {
+    word: 'nah yeah',
+    meaning: 'yeah',
   },
   {
     word: 'you beaut',
