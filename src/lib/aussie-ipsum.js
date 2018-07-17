@@ -237,6 +237,10 @@ export const aussieIpsum = [
     meaning: 'Granola.',
   },
   {
+    word: 'nah yeah',
+    meaning: 'Yeah.',
+  },
+  {
     word: '\'onya',
     meaning: 'Good on you.',
   },
@@ -375,11 +379,7 @@ export const aussieIpsum = [
   },
   {
     word: 'yeah nah',
-    meaning: 'no',
-  },
-  {
-    word: 'nah yeah',
-    meaning: 'yeah',
+    meaning: 'Nah.',
   },
   {
     word: 'you beaut',
