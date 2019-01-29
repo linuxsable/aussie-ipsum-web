@@ -89,10 +89,6 @@ export const aussieIpsum = [
     meaning: 'Compensation.',
   },
   {
-    word: 'connie, jonny',
-    meaning: 'Condom.',
-  },
-  {
     word: 'cooee',
     meaning: 'Something is close.',
   },
@@ -259,6 +255,10 @@ export const aussieIpsum = [
   {
     word: 'postie',
     meaning: 'Postman.',
+  },
+  {
+    word: 'pram',
+    meaning: 'A stroller.',
   },
   {
     word: 'prezzy',
