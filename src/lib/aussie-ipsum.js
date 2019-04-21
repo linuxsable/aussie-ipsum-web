@@ -395,7 +395,7 @@ export const aussieIpsum = [
   },
   {
     word: 'Accadacca',
-    meaning: 'AC/DC',
+    meaning: 'AC/DC.',
   },
   {
     word: 'nuddy',
@@ -403,7 +403,7 @@ export const aussieIpsum = [
   },
   {
     word: 'Maccas',
-    meaning: 'McDonalds',
+    meaning: 'McDonalds.',
   },
   {
     word: 'stubby',
