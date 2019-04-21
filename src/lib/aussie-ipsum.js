@@ -1,5 +1,9 @@
 export const aussieIpsum = [
   {
+    word: 'accadacca',
+    meaning: 'AC/DC.',
+  },
+  {
     word: 'aggro',
     meaning: 'Aggressive.',
   },
@@ -10,6 +14,10 @@ export const aussieIpsum = [
   {
     word: 'bags out',
     meaning: 'Disses.',
+  },
+  {
+    word: 'barbie',
+    meaning: 'Barbecue.',
   },
   {
     word: 'becky',
@@ -217,6 +225,10 @@ export const aussieIpsum = [
     meaning: 'Candy.',
   },
   {
+    word: 'maccas',
+    meaning: 'McDonalds.',
+  },
+  {
     word: 'maggot',
     meaning: 'Disgustingly drunk.',
   },
@@ -235,6 +247,10 @@ export const aussieIpsum = [
   {
     word: 'nah yeah',
     meaning: 'Yeah.',
+  },
+  {
+    word: 'nuddy',
+    meaning: 'Naked.',
   },
   {
     word: '\'onya',
@@ -326,6 +342,10 @@ export const aussieIpsum = [
     meaning: 'Oh shit!.',
   },
   {
+    word: 'stubby',
+    meaning: 'Bottle of beer.',
+  },
+  {
     word: 'tactical vom',
     meaning: 'Tactical vom.',
   },
@@ -389,24 +409,4 @@ export const aussieIpsum = [
     word: 'you\'ve got buckleys',
     meaning: 'You\'ve got no luck.',
   },
-  {
-    word: 'barbie',
-    meaning: 'Barbecue.',
-  },
-  {
-    word: 'Accadacca',
-    meaning: 'AC/DC.',
-  },
-  {
-    word: 'nuddy',
-    meaning: 'Naked.',
-  },
-  {
-    word: 'Maccas',
-    meaning: 'McDonalds.',
-  },
-  {
-    word: 'stubby',
-    meaning: 'Bottle of beer.',
-  }
 ];
