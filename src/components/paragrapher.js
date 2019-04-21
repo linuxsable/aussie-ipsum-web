@@ -59,9 +59,19 @@ export class Paragrapher extends Component {
     const numberOfWords = Math.floor(Math.random() * (maxWordsPerSentence - minWordsPerSentence)) + minWordsPerSentence;
     const sentenceWords = [];
     const tempWords = [...words];
+    const getWordIndex = () => Math.floor(Math.random() * tempWords.length);
+
+    let lastWordIndex;
 
     for (let k = 0; k < numberOfWords; ++k) {
-      const wordIndex = Math.floor(Math.random() * tempWords.length);
+      let wordIndex = getWordIndex();
+
+      if (lastWordIndex && lastWordIndex === wordIndex) {
+        wordIndex++;
+      } 
+
+      lastWordIndex = wordIndex;
+
       sentenceWords.push(tempWords[wordIndex].word);
       tempWords.splice(wordIndex, 1);
     }
