@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
-const Wrapper = styled.div.attrs({ className: 'pt3' })``;
+const Wrapper = styled.div.attrs({ className: 'pt3 lh-copy' })``;
 const Input = styled.input`
   width: 3em;
 `;
