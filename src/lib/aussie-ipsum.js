@@ -388,5 +388,25 @@ export const aussieIpsum = [
   {
     word: 'you\'ve got buckleys',
     meaning: 'You\'ve got no luck.',
+  },
+  {
+    word: 'barbie',
+    meaning: 'Barbecue.',
+  },
+  {
+    word: 'Accadacca',
+    meaning: 'AC/DC',
+  },
+  {
+    word: 'nuddy',
+    meaning: 'Naked.',
+  },
+  {
+    word: 'Maccas',
+    meaning: 'McDonalds',
+  },
+  {
+    word: 'stubby',
+    meaning: 'Bottle of beer.',
   }
 ];
