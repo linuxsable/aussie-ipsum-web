@@ -1,3 +1,3 @@
 ### Totes Aussie Ipsum
 
-http://aussieipsum.com
+http://aussieipsum.netlify.com/
