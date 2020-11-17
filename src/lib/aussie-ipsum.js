@@ -149,10 +149,6 @@ export const aussieIpsum = [
     meaning: 'Genuine.',
   },
   {
-    word: 'galoot',
-    meaning: '',
-  },
-  {
     word: 'get messed',
     meaning: 'False off.',
   },
@@ -307,10 +303,6 @@ export const aussieIpsum = [
   {
     word: 'schooner',
     meaning: 'Measurement of beer.',
-  },
-  {
-    word: 'servo',
-    meaning: '',
   },
   {
     word: 'smoko',
